@@ -1,4 +1,4 @@
-"body": [
+
         {
             "type": "ColumnSet",
             "columns": [
@@ -76,5 +76,4 @@
                 }
             ]
         }
-    ]
-}
+ 
