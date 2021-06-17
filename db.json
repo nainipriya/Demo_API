@@ -1,0 +1,79 @@
+"body": [
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "weight": "bolder",
+                            "text": "CTNR"
+                        },
+                        {
+                            "type": "TextBlock",
+                            "separator":true,
+                            "text": "CT004_501"
+                        },{
+                            "type": "TextBlock",
+                            "separator":true,
+                            "text": "CT004_502"
+                        },
+                          {
+                            "type": "TextBlock",
+                            "separator":true,
+                            "text": "CT004_503"
+                        }
+                    ]
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "weight": "bolder",
+                            "text": "Gender"
+                        },
+                        {
+                            "type": "TextBlock",
+                            "separator":true,
+                            "text": "Male"
+                        },{
+                            "type": "TextBlock",
+                            "separator":true,
+                            "text": "Female"
+                        },
+                          {
+                            "type": "TextBlock",
+                            "separator":true,
+                            "text": "Male"
+                        }
+                    ]
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "weight": "bolder",
+                            "text": "Final Diagnosis"
+                        },
+                        {
+                            "type": "TextBlock",
+                            "separator":true,
+                            "text": "Diabetes"
+                        },{
+                            "type": "TextBlock",
+                            "separator":true,
+                            "text": "Corona"
+                        },
+                          {
+                            "type": "TextBlock",
+                            "separator":true,
+                            "text": "Corona"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
